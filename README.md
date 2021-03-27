@@ -22,8 +22,8 @@
     - Mouse Button Up
 With these events the movement of the user can be handled by the coordanites of the mouse.
 - Built function for every type of movement in the game as in the table below:
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
