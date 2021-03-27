@@ -22,7 +22,7 @@
     - Mouse Button Up
 With these events the movement of the user can be handled by the coordanites of the mouse.
 - Built function for every type of movement in the game as in the table below:
-| Function        | Used for      |
-| --------------- |:-------------:|
-| `white_move`, `black_move` | Checking the movement of the pieces for every color |
-| `white_kill`, `black_kill`, `white_kill_passant`, `black_kill_passant`       | Check if there is a dead piece due to the last move |
+| Function                                                               | Used for                                            |
+| ---------------------------------------------------------------------- |:---------------------------------------------------:|
+| `white_move`, `black_move`                                             | Checking the movement of the pieces for every color |
+| `white_kill`, `black_kill`, `white_kill_passant`, `black_kill_passant` | Check if there is a dead piece due to the last move |
