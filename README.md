@@ -21,7 +21,7 @@
     - Mouse Motion
     - Mouse Button Up
 - With these events the movement of the user can be handled by the coordanites of the mouse.
-- The Main Functions:
+- #### The Main Functions:
     - Built function for every type of movement in the game as in the table below:
 
 | Function                                                               | Used for                                            |
