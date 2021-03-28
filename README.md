@@ -33,7 +33,7 @@
 
 ### Setup
 
-1. These files should run with [code blocks with mingw32](https://www.codeblocks.org/downloads/binaries/).
+1. These files should run with [code blocks with mingw32](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe).
 2. Files for SDL Library should be downloaded, 
     - The version is `SDL2-devel-2.0.14-mingw.tar.gz`, [SDL Library](https://libsdl.org/release/SDL2-devel-2.0.14-mingw.tar.gz)
     - The version is `SDL2_image-devel-2.0.5-mingw.tar.gz`, [SDL Image Library](https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.5-mingw.tar.gz).
