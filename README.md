@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Design Overview](#Design-Overview)
-- [The Main Functions](#The-Main-Functions)
+    - [The Main Functions](#The-Main-Functions)
 - [Setup](#Setup)
 - [Game Description and Features](#Game-Description-and-Features)
 - [Used Data Structures](#Used-Data-Structures)
