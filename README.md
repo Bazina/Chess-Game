@@ -67,3 +67,36 @@
 - Showing the turns and how it goes on.
 
     ![](https://media.giphy.com/media/A7V5EV0VwKWk27KBPp/giphy.gif)
+
+- Undo and Redo feature and how it works.
+
+    ![](https://media.giphy.com/media/fjnUPh2AhDVdtHtL04/giphy.gif)
+
+- En passant movement.
+
+    ![](https://media.giphy.com/media/uI7H2TsAtksxMx0LzZ/giphy.gif)
+
+- Castling move.
+
+    ![](https://media.giphy.com/media/qvWeBSIDFh4W1KfewE/giphy.gif)
+
+- Promotion animation.
+
+    ![](https://media.giphy.com/media/g4sw63jee31ng0Co61/giphy.gif)
+
+- Check for the king and trying undo feature.
+
+    ![](https://media.giphy.com/media/fjnUPh2AhDVdtHtL04/giphy.gif)
+
+- Checkmate and finishing a game with undo experiment.
+
+    ![](https://media.giphy.com/media/QhYmDXvnPGoeBujln9/giphy.gif)
+
+- A game ends in a draw by `Dead Position`.
+
+    ![](https://media.giphy.com/media/jhc2L2bNacfk29ffYR/giphy.gif)
+    ![](https://media.giphy.com/media/WhzKHE5RDSvMjaygzj/giphy.gif)
+
+- A game ends in a draw by `Stalemate`.
+
+    ![](https://media.giphy.com/media/5WGh8vOd8FCa3ET3Vo/giphy.gif)
