@@ -25,5 +25,7 @@ With these events the movement of the user can be handled by the coordanites of 
 
 | Function                                                               | Used for                                            |
 | :--------------------------------------------------------------------: |:--------------------------------------------------: |
-| `white_move`, `black_move`                                             | Checking the movement of the pieces for every color |
-| `white_kill`, `black_kill`, `white_kill_passant`, `black_kill_passant` | Check if there is a dead piece due to the last move |
+| `white_move` , `black_move`                                            | Checking the movement of the pieces for every color |
+| `white_kill` , `black_kill` , `white_kill_passant` , `black_kill_passant` | Check if there is a dead piece due to the last move |
+| `white_left_castling` , `white_right_castling` , `black_right_castling` , `black_left_castling` | when a move evolve castling these are a helping functions |
+| `dead_pos` , `stalemate` , `check_mate` | Checking for the end of a game or if there was a check for the king |
