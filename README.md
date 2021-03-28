@@ -103,8 +103,8 @@
 
 ### Used Data Structure
 
-- A structure of arrays and variables for the pieces of the game which saves the data of the pieces like its cooradinates, dead pieces, black or white, flags to determine if the king was checked or not all the moves from the beginning for the undo and redo features, etc.
-- A structure of arrays and variables to save the properties of the pieces like the legal moves, if it covers the king or not, etc.
+1. A structure of arrays and variables for the pieces of the game which saves the data of the pieces like its cooradinates, dead pieces, black or white, flags to determine if the king was checked or not all the moves from the beginning for the undo and redo features, etc.
+2. A structure of arrays and variables to save the properties of the pieces like the legal moves, if it covers the king or not, etc.
 
 ### User Manual
 
