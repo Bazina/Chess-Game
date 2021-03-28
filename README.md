@@ -30,6 +30,7 @@
 | `white_kill` , `black_kill` , `white_kill_passant` , `black_kill_passant` | Check if there is a dead piece due to the last move |
 | `white_left_castling` , `white_right_castling` , `black_right_castling` , `black_left_castling` | when a move evolve castling these are a helping functions |
 | `dead_pos` , `stalemate` , `check_mate` | Checking for the end of a game or if there was a check for the king |
+| `get_valid_moves` | Get the valid moves for the chosen piece |
 - The game has a unique UI / UX with a responsive design, and when the user tries to move any piece, legal moves get highlighted with a green mark, and illegal moves get highlighted with a red mark.
 
 ### Setup
@@ -48,3 +49,20 @@
 
 ### Game Description and Features
 
+- User can interact with the game using the mouse only.
+- Validation check for every move on the pitch and the game shows up the legal moves for a piece with a green mark.
+- Special moves like:
+    1. Castling.
+    2. En passant.
+    3. Promotion.
+- A tomb is built for the dead pieces.
+- Movement Record is built to show the last move on the board.
+- Legend music to help to keep calm and focus.
+- When the game comes to an end, a screens appear to describe the end.
+- Undo, Redo buttons which undo or redo the moves at anytime and anywhere as well as the game can be continued anywhere the user want.
+- Save, Load button which save or load the last saved game with all the data and previous moves.
+
+#### Features in Videos
+
+- Showing the turns and how it goes on.
+![](https://media.giphy.com/media/A7V5EV0VwKWk27KBPp/giphy.gif)
