@@ -3,10 +3,10 @@
 ## Table of Contents
 
 - [Design Overview](#Design-Overview)
+- [The Main Functions](#The-Main-Functions)
 - [Setup](#Setup)
 - [Game Description and Features](#Game-Description-and-Features)
 - [Used Data Structures](#Used-Data-Structures)
-- [The Main Functions](#The-Main-Functions)
 - [User Manual](#User-Manual)
 
 ### Design Overview
@@ -21,7 +21,8 @@
     - Mouse Motion
     - Mouse Button Up
 - With these events the movement of the user can be handled by the coordanites of the mouse.
-- Built function for every type of movement in the game as in the table below:
+- The Main Functions:
+    - Built function for every type of movement in the game as in the table below:
 
 | Function                                                               | Used for                                            |
 | :--------------------------------------------------------------------: |:--------------------------------------------------: |
