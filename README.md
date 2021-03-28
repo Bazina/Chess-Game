@@ -40,7 +40,7 @@
     - The version is `SDL2_mixer-devel-2.0.4-mingw.tar.gz`, [SDL Mixer Library](https://libsdl.org/projects/SDL_mixer/release/SDL2_mixer-devel-2.0.4-mingw.tar.gz).
     - The version is `SDL2_ttf-devel-2.0.15-mingw.tar.gz`, [SDL TTF Library](https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.0.15-mingw.tar.gz).
 3. After installing `code blocks with mingw32` and downloading `SDL libraries`, extract the files of SDL library twice then we have the folder of the library.
-4. Open the folder, then go into the folder with the name `x86_64-w64-mingw32`, we will take the folder with `bin, lib, include` names and copy them in this directory in `code blocks` `C:\Program Files\CodeBlocks\MinGW\x86_64-w64-mingw32`, and replace all the files.
+4. Open the folder, then go into the folder with the name `x86_64-w64-mingw32`, we will take the folder with `bin, lib, include` names and copy them in this directory in `C:\Program Files\CodeBlocks\MinGW\x86_64-w64-mingw32`, and replace all the files.
 5. Finally, open the `include` folder in this location `C:\Program Files\CodeBlocks\MinGW\x86_64-w64-mingw32\include` and there is a folder called `SDL` copy all the files in it and paste them in the `include` folder.
 6. Repeat these steps for the remaining libraries.
 7. Now the game can be build in `code blocks`.
