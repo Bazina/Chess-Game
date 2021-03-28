@@ -100,3 +100,18 @@
 - A game ends in a draw by `Stalemate`.
 
     ![](https://media.giphy.com/media/5WGh8vOd8FCa3ET3Vo/giphy.gif)
+
+### Used Data Structure
+
+- A structure of arrays and variables for the pieces of the game which saves the data of the pieces like its cooradinates, dead pieces, black or white, flags to determine if the king was checked or not all the moves from the beginning for the undo and redo features, etc.
+- A structure of arrays and variables to save the properties of the pieces like the legal moves, if it covers the king or not, etc.
+
+### User Manual
+
+- By holding the left click of the mouse on the desired piece, the user can move the piece (according to the turn) at any place as long as it is a legal move and in the board, then release the button to place the piece where he wanted.
+- The legal moves are marked with a green color on the legal squares.
+- If the move is illegal, the square where the user put the piece, will be marked with a red color.
+- The user can press on the save button in the bottom middle of the window to save the game, and press on the load button in the top middle of the window to load the game at any time after saving it.
+- By pressing on the undo or redo icon in the bottom right of the window, the user can undo or redo one move or more, then start to play at any stage he wants.
+- When there is a check for the king, the user can see in the right middle of the window a word which indicates that there is a check.
+- When there is a checkmate, stalemate, or draw by dead position the game will end with a texture which determines who is the winner, and if there is a draw, it will tell.
