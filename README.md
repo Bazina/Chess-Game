@@ -114,4 +114,4 @@
 - The user can press on the save button in the bottom middle of the window to save the game, and press on the load button in the top middle of the window to load the game at any time after saving it.
 - By pressing on the undo or redo icon in the bottom right of the window, the user can undo or redo one move or more, then start to play at any stage he wants.
 - When there is a check for the king, the user can see in the right middle of the window a word which indicates that there is a check.
-- When there is a checkmate, stalemate, or draw by dead position the game will end with a texture which determines who is the winner, and if there is a draw, it will tell.
+- When there is a checkmate, stalemate, or draw by dead position the game will end with a texture which determines who is the winner, and if there is a draw, it will tell. 
